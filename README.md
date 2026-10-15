@@ -232,4 +232,4 @@ The styling is built using pure modern CSS tokens defined in [`src/index.css`](f
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-# react-website-using-cursor
+# react-postgresql-todo-applicaion
